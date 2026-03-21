@@ -3,6 +3,8 @@ app.py
 AI Code Integrity Auditor — Streamlit UI.
 """
 
+import utils.transport
+import utils.session
 import shutil
 import sys
 from datetime import datetime
